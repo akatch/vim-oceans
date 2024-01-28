@@ -5,7 +5,7 @@
 ## Screenshots
 
 `golang`
-![A screenshot of a golang code snippet with the vim-oceans colorscheme applied](ihttps://i.ibb.co/fHnQQ58/golang.png)
+![A screenshot of a golang code snippet with the vim-oceans colorscheme applied](https://i.ibb.co/fHnQQ58/golang.png)
 
 `markdown`
 ![A screenshot of a markdown code snippet with the vim-oceans colorscheme applied](https://i.ibb.co/BfPWwSD/markdown.png)
