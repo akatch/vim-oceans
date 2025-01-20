@@ -99,7 +99,7 @@ hi Tag           	ctermfg=79 ctermbg=none
 
 " types
 hi StorageClass  ctermfg=31 ctermbg=none
-hi String        ctermfg=26 ctermbg=none
+hi String        ctermfg=70 ctermbg=none
 hi Type          ctermfg=29 ctermbg=none
 hi Typedef       ctermfg=32 ctermbg=none
 hi Boolean       ctermfg=30 ctermbg=none
